@@ -3,3 +3,4 @@
 /scraped/*
 !sitemap.txt
 !robots.txt
+!/scraped/*.ipynb
