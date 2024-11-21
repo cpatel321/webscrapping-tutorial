@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tutorial
 
-Sitemap: https://cpatel321.github.io/webscrapping-tutorial/sitemap.txt
+Sitemap: https://cpatel321.github.io/webscrapping-tutorial/sitemap.xml
