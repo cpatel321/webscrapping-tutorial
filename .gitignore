@@ -1,0 +1,5 @@
+*.txt
+*.csv
+/scraped/*
+!sitemap.txt
+!robots.txt

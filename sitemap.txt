@@ -1,0 +1,8 @@
+https://cpatel321.github.io/webscrapping-tutorial/index.html
+https://cpatel321.github.io/webscrapping-tutorial/figures.html
+https://cpatel321.github.io/webscrapping-tutorial/style.css
+https://cpatel321.github.io/webscrapping-tutorial/table.html
+https://cpatel321.github.io/webscrapping-tutorial/text.html
+https://cpatel321.github.io/webscrapping-tutorial/chart.png
+https://cpatel321.github.io/webscrapping-tutorial/chart2.png
+https://cpatel321.github.io/webscrapping-tutorial/event.ics
